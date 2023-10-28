@@ -1,0 +1,34 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¨ò 
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éâú”
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+i
+java:S1104"SMake subject a static final constant or non-public and provide accessors if needed.(®ş¢€
+b	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(šÕÉ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(çåîé
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·»Šm
+L
+java:S1854"6Remove this useless assignment to local variable "mr".(û¯ô—
+Z
+java:S1854"DRemove this useless assignment to local variable "computer_science".(â¨ò 
+K
+java:S1481"5Remove this unused "computer_science" local variable.(â¨ò 
+=
+java:S1481"'Remove this unused "mr" local variable.(û¯ô—
+E	java:S106"+Replace this use of System.out by a logger.(ü¼³äüÿÿÿÿ
+>
+java:S1068
+"(Remove this unused "name" private field.(Ë¥¼
+@
+java:S1068"%Remove this unused "x" private field.(µçöúÿÿÿÿ
+B
+java:S1068",Remove this unused "students" private field.(‘êËú
+G
+java:S1068",Remove this unused "teachers" private field.( Ôšçúÿÿÿÿ
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
+A
+java:S1068"&Remove this unused "id" private field.(ôç¼Óşÿÿÿÿ
+D
+java:S1068")Remove this unused "grade" private field.(Øãìÿûÿÿÿÿ
